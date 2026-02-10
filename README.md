@@ -1,4 +1,4 @@
-# Domain-Driven Hexagon (branch2 v2)
+# Domain-Driven Hexagon (branch2 v3)
 
 **Check out my other repositories**:
 
